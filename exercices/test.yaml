@@ -1,0 +1,8 @@
+"Coche la proposition correcte":
+  Type : “radio“
+   Answers :
+   “ C’est un polyèdre car il a 9 arêtes.“ : false
+   “ C’est un polyèdre car il a deux bases isométriques.“ : false
+   “ C’est un polyèdre car toutes ses faces sont des polygones.“ : true
+   “ C’est un polyèdre car il a deux bases parallèles.“ : false
+
